@@ -58,7 +58,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-## Windows Git Bash
+## 🪟 Windows Git Bash
 
 ```bash
 python -m venv venv
