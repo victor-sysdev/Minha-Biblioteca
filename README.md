@@ -36,12 +36,12 @@ biblioteca/
 
 ## Clonar repositório
 
-```bash
-git clone https://github.com/victor-sysdev/biblioteca-tech.git
+```bash[
+https://github.com/victor-sysdev/Minha-Biblioteca.git
 ```
 
 ```bash
-cd biblioteca-tech
+cd Minha-Biblioteca
 ```
 
 ---
